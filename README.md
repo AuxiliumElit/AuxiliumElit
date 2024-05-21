@@ -1,4 +1,4 @@
-## Hi there 👋
+## Auxilium Elit - Testing for Excellence, Automating for Evolution. 👋
 
 <!--
 **AuxiliumElit/AuxiliumElit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
